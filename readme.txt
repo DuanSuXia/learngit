@@ -10,4 +10,12 @@ Git is distributed version control system
 
 Git is free software
 ******************************************
+this is the third time modify the txt,
+******************************************
+this txt's purposes is to excise for the modify text
+all of this.
+*********************************************
+Git is a distributed version control system.
+Git is free software distribute under the GPL.
+**********************************************
 
