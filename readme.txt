@@ -32,3 +32,6 @@ Git has a mutable index called stage.
 this is the new information
 Git tracks changes.
 
+
+Git tracks changes of files!!!
+
